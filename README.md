@@ -10,8 +10,8 @@ From terminal
 * $ git push 
 
 # To visit
-http://rawgit.com/dwaynethomas/introhtml5project1/master/index.html
-http://htmlpreview.github.io/?https://github.com/dwaynethomas/introhtml5project1/blob/master/index.html
+* http://rawgit.com/dwaynethomas/introhtml5project1/master/index.html
+* http://htmlpreview.github.io/?https://github.com/dwaynethomas/introhtml5project1/blob/master/index.html
 
 # Locally
 * open -a Google\ Chrome  /Users/dthomas/Desktop/Dwayne_Intro_html5/introhtml5project1/index.html
