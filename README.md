@@ -13,7 +13,7 @@ $ git push
 http://rawgit.com/dwaynethomas/introhtml5project1/master/index.html
 http://htmlpreview.github.io/?https://github.com/dwaynethomas/introhtml5project1/blob/master/index.html
 
-Locally
+# Locally
 open -a Google\ Chrome  /Users/dthomas/Desktop/Dwayne_Intro_html5/introhtml5project1/index.html
 
 open -a safari /Users/dthomas/Desktop/Dwayne_Intro_html5/introhtml5project1/index.html
